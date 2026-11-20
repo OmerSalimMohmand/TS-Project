@@ -1,0 +1,1 @@
+{"version":3,"file":"IUpdatableRepository.d.ts","sourceRoot":"","sources":["../../../src/repositories/contracts/IUpdatableRepository.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,iBAAiB,CAAC;AAC9C,MAAM,WAAW,oBAAoB,CAAC,CAAC,SAAS,MAAM;IACpD,MAAM,CAAC,EAAE,EAAE,MAAM,EAAE,OAAO,EAAE,OAAO,CAAC,IAAI,CAAC,CAAC,EAAE,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,SAAS,CAAC;CACpE"}

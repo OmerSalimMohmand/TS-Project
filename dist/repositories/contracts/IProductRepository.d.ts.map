@@ -1,0 +1,1 @@
+{"version":3,"file":"IProductRepository.d.ts","sourceRoot":"","sources":["../../../src/repositories/contracts/IProductRepository.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,kBAAkB,CAAC;AAChD,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AACjD,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAEnE,MAAM,WAAW,kBACf,SAAQ,WAAW,CAAC,OAAO,CAAC,EAAE,oBAAoB,CAAC,OAAO,CAAC;CAAG"}
